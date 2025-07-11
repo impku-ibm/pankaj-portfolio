@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pankaj-portfolio/static/css/main.5f269c5f.css",
+    "main.js": "/pankaj-portfolio/static/js/main.7b7ac3b8.js",
+    "index.html": "/pankaj-portfolio/index.html",
+    "main.5f269c5f.css.map": "/pankaj-portfolio/static/css/main.5f269c5f.css.map",
+    "main.7b7ac3b8.js.map": "/pankaj-portfolio/static/js/main.7b7ac3b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f269c5f.css",
+    "static/js/main.7b7ac3b8.js"
+  ]
+}
