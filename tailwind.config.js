@@ -16,6 +16,13 @@ module.exports = {
   },},
   },
   plugins: [],
+  theme: {
+  extend: {
+    backdropBlur: {
+      xs: '2px',
+    },
+  },
+}
 }
 
 
