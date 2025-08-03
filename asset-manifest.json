@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/pankaj-portfolio/static/css/main.d7ea0dc8.css",
-    "main.js": "/pankaj-portfolio/static/js/main.b53e887c.js",
+    "main.css": "/pankaj-portfolio/static/css/main.a0a7a9eb.css",
+    "main.js": "/pankaj-portfolio/static/js/main.6759c762.js",
+    "static/media/profile.jpg": "/pankaj-portfolio/static/media/profile.ad013300db4c3d19cbee.jpg",
     "index.html": "/pankaj-portfolio/index.html",
-    "main.d7ea0dc8.css.map": "/pankaj-portfolio/static/css/main.d7ea0dc8.css.map",
-    "main.b53e887c.js.map": "/pankaj-portfolio/static/js/main.b53e887c.js.map"
+    "main.a0a7a9eb.css.map": "/pankaj-portfolio/static/css/main.a0a7a9eb.css.map",
+    "main.6759c762.js.map": "/pankaj-portfolio/static/js/main.6759c762.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7ea0dc8.css",
-    "static/js/main.b53e887c.js"
+    "static/css/main.a0a7a9eb.css",
+    "static/js/main.6759c762.js"
   ]
 }
